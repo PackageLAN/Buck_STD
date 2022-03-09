@@ -1,2 +1,3 @@
-Buck_STD.raw
+*.raw
+!.op.raw
 *.log
